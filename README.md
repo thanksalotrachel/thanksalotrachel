@@ -4,5 +4,6 @@ $${\color{beige}\text{“Like what?”}}$$
 $${\color{pink}\text{“Right…”}}$$
 
 
-<sub><sup>$$<sub><sup>dang i love this man</sup></sub>$$</sup></sub>
+$$ \text{dang i love this man} $$
 ##
+
