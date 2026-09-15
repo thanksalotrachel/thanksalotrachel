@@ -1,11 +1,11 @@
 ##
 
+<p align=center> hehehehehehehehehehehehehehehehehe
 
 
-<p align="center">
-<a href="https://www.instagram.com/gemmsen"> <img src="https://github.com/user-attachments/assets/4b4f1c6e-cd4d-45d8-9a75-82de92b91880" alt="Alt Text" width="410"
-height="500">
+<p align="center"> 
+<img width="378"alt="Image" src="https://github.com/user-attachments/assets/fe936bdf-bddd-43c7-b744-7cde2e997a4a" />
 </a>
 
-
+##
 
